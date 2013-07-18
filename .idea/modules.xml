@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloWidget/HelloWidget.iml" filepath="$PROJECT_DIR$/HelloWidget/HelloWidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWidgetProject.iml" filepath="$PROJECT_DIR$/HelloWidgetProject.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1374155874000 259 a45625638a2325589feb52cdb0b6e2503e8d1d87 /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/build/res/all/debug/values-sw720dp-land/values.xml
+1374157956000 397 3f718df8b96a21939c00686674b496a049124eeb /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/build/res/all/debug/xml/hello_widget_provider.xml
+1374155874000 356 bee71c390f632a310e66b7bc0e9a03811704e81f /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/build/res/all/debug/menu/main.xml
+1374155874000 542 72661df9153118400592f98ac0433661d36665b2 /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1374155874000 316 7ae9e1222cfd12c8128d30b68b171c4a8f2a686e /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1374157956000 271 f0ca8260bc0cfe6a7e9ddae0c027c09a492148c6 /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/build/res/all/debug/drawable-hdpi/widget_bg_normal.9.png
+1374155874000 328 bacce69ce951bdd2eb1a54742ffb6425ee015ed3 /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/build/res/all/debug/values-v11/values.xml
+1374157956000 840 e81557592161ad9f7e19c9e235199bb9107ea712 /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/build/res/all/debug/layout/activity_main.xml
+1374158180000 1161 79752c61672ed7bb3d9c9d29563306129fe792b1 /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/build/res/all/debug/values/values.xml
+1374155874000 342 c400df561a579d8cdcdbe732c4beffc50d9f8f41 /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/build/res/all/debug/values-v14/values.xml
+1374155874000 382 a9f28e9f2923e961033b2483f2781a1dc174b60e /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1374155874000 288 7915eb5d8f325f17d036f6fdfb61fbb738b4e750 /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/build/res/all/debug/drawable-mdpi/ic_launcher.png

@@ -1,0 +1,18 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1374156166000 268 a11e205db7962121d84717faedc4a833cf40a7f5 /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/src/main/res/drawable-hdpi/widget_bg_normal.9.png
+1374155773000 211 4e1904afba59d31e5cd6133f6a4c360fa9a5913f /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/src/main/res/values/dimens.xml
+1374155773000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/src/main/res/menu/main.xml
+1374155773000 680 c76f4caaa7a8dfe9727fa93001b3aee3b22d6716 /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/src/main/res/values/styles.xml
+1374158164000 231 d5b8c441ddc66917b8f770249765a3eb1d697e8c /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/src/main/res/values/strings.xml
+1374155773000 282 7a5b2bc077c6019422020de33324ff1f3409f492 /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/src/main/res/drawable-mdpi/ic_launcher.png
+1374155773000 652 d789d0603d5e9196865eaa88c382b3af3ac8a86b /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/src/main/res/drawable-xxhdpi/ic_launcher.png
+1374155773000 381 b129b276e01126de5b3b753572ac67cbfc19454c /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/src/main/res/values-v14/styles.xml
+1374156454000 717 5b4a5cd4c69abad3f6ab7fd4bf0dd530eb7e79a5 /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/src/main/res/layout/activity_main.xml
+1374155773000 254 25b6404e44acb50c82590049639d4fb5fefbac8e /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/src/main/res/values-sw720dp-land/dimens.xml
+1374155773000 425 f56bf53843cebd119e3017407823680ea3db5032 /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/src/main/res/drawable-xhdpi/ic_launcher.png
+1374155773000 324 aa1f5f1723de9aee2669dc44a26fbc0ce776d35f /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/src/main/res/values-v11/styles.xml
+1374155773000 330 b41cc1796d3d66bdb5b2f0af402ed4ccbceca31e /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/src/main/res/drawable-hdpi/ic_launcher.png
+1374155773000 181 84de2797380184d8b39af6f829afb092fb956173 /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/src/main/res/values-sw600dp/dimens.xml
+1374157262000 269 f255447fc63defa935ae5d5abd6df8cee96ba823 /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/src/main/res/xml/hello_widget_provider.xml

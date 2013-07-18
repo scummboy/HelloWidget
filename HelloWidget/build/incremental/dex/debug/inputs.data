@@ -1,0 +1,18 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1374158991000 984 44e9174684f267d5aa7a544b06f8710203466e4c /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/build/classes/debug/com/example/hellowidget/HelloWidget.class
+1374158181000 418 7a1bc2d74436e7ebb7746ada0137681b28b064a2 /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/build/classes/debug/com/example/hellowidget/R$layout.class
+1374158181000 447 372938db9f0c3495697b351be2a89a0233be4559 /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/build/classes/debug/com/example/hellowidget/R$id.class
+1374158991000 1939 0c067c0785da7b9d102b018cb106b8d1439f8a2f /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/build/classes/debug/com/example/hellowidget/HelloWidget$MyTime.class
+1374158181000 403 1e313ed9d1ce16c969df6b4160a40c22ccbfdcce /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/build/classes/debug/com/example/hellowidget/R$menu.class
+1374158181000 446 00e5b07b38b033f3f4141c29ce3d6d6139b82edf /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/build/classes/debug/com/example/hellowidget/R$style.class
+1374158181000 776 f8a65927e79698c2aef9d2aaf40ac1f0ab088d24 /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/build/classes/debug/com/example/hellowidget/R.class
+1374158181000 827 d26227b15fd641c92fb16faf331215d272988c88 /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/build/classes/debug/com/example/hellowidget/MainActivity.class
+1374158181000 462 fa77ccc3b1adcf095946dc400933ba9d6daae78b /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/build/classes/debug/com/example/hellowidget/R$drawable.class
+1374158181000 487 29552eba402f6997270580ce28bf503ecdca2e07 /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/build/classes/debug/com/example/hellowidget/R$string.class
+1369432937000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1374155875000 355 a526f889173fd89df3a5beae13a499ac734b4763 /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/build/classes/debug/com/example/hellowidget/BuildConfig.class
+1374158181000 476 c873014d702f17bc7c29f37917a2daf8d9ac447a /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/build/classes/debug/com/example/hellowidget/R$dimen.class
+1374155875000 355 c9d2ba7d07ddbf8e9921ec4e7b3d065493da3f4c /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/build/classes/debug/com/example/hellowidget/R$attr.class
+1374158181000 417 87dbecfedd037c5fc1f396d6aafce02836b53d47 /Users/jamie/AndroidStudioProjects/HelloWidgetProject/HelloWidget/build/classes/debug/com/example/hellowidget/R$xml.class
